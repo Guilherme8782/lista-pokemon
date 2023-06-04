@@ -34,3 +34,6 @@ A Pokedex possui as seguintes funcionalidades:
 <strong>Global.css</strong>: Contém os estilos globais aplicados em todo o projeto.
 
 <strong>Pokedex.css</strong>: Contém os estilos específicos da Pokedex, incluindo os estilos para a lista de pokemons, os estilos para cada pokemon individualmente e os estilos do paginador.
+
+<h2>🟢Link do Projeto (working)🟢</h2>
+https://guilherme8782.github.io/lista-pokemon/
