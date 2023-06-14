@@ -4,7 +4,7 @@ Oi,
 <br>
 
 Esse é meu projeto Javascript onde pego informações de uma API chamada PokeAPI, com elas converto em HTML, no meio disso, para estilização foi utilizado CSS, nos códigos
-tem comentários explicando as funções e a lógica básica para chegar ao resultado final, espero que gostem😁
+tem comentários explicando as funções e a lógica básica para chegar ao resultado final,<strong>o site para ver o resultado será o último link desse artigo</strong>, espero que gostem😁
 
 <h2>💻Tecnologias Utilizadas💻</h2>
 
